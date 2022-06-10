@@ -1,8 +1,8 @@
+
 #### DDos Attack Tool
 
-##### Hammer
 
-#### Installation
+### Installation
 
 
 	apt update
@@ -12,6 +12,7 @@
 	apt install dnsutils
 	git clone https://github.com/KNI9H7-SH4D0W/Hammer
 
+##### Hammer
 Hammer need the Name Server of a website which you want to attack...
 
 To get the Name Server...just type
