@@ -11,6 +11,7 @@
 	apt install git
 	apt install dnsutils
 	git clone https://github.com/KNI9H7-SH4D0W/Hammer
+	cd Hammer
 
 ##### Hammer
 Hammer need the Name Server of a website which you want to attack...
