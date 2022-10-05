@@ -73,7 +73,7 @@ def dos2():
 
 os.system("clear")
 def usage():
-	print("\n\n \033[91m 			~°./ KNI9H7 SH4D0W \.°~  \n")
+	print("\n\n \033[91m 			~°./ Mr. R013X 404 \.°~  \n")
 	print ('''\n\n\n \033[92m	Hammer-DDos Attack Tool v1.0
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
