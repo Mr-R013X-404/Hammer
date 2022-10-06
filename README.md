@@ -10,7 +10,7 @@
 	apt install python
 	apt install git
 	apt install dnsutils
-	git clone https://github.com/KNI9H7-SH4D0W/Hammer
+	git clone https://github.com/Mr-R013X-404/Hammer
 	cd Hammer
 
 ##### Hammer
